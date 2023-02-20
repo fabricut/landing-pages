@@ -109,6 +109,7 @@ p {
 	font-size: 1.25rem;
 	font-weight: 300;
 	line-height: 1.375;
+	text-align: center;
 	letter-spacing: -0.05rem;
 	margin-bottom: 2.85rem;
 }
@@ -117,22 +118,6 @@ p {
 	.lead-in__content p {
 		font-size: 1.75rem;
 		margin-bottom: 4rem;
-	}
-}
-
-
-/* drop cap */
-.drop-cap {
-	float: left;
-	font-size: 3.825rem;
-	line-height: .825;
-	margin-right: .25rem;
-}
-
-@media screen and (min-width: 768px) {
-	.drop-cap {
-		font-size: 5.25rem;
-		margin-right: .5rem;
 	}
 }
 
