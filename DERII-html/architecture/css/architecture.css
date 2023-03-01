@@ -181,7 +181,7 @@ p {
 }
 
 .shop-cta {
-	background: url('../images/bg-shop-cta.jpg');
+	background: url('https://s3.amazonaws.com/fabricut.img/assets/hubspot/design-en-rouge-architecture/images/bg-shop-cta.jpg');
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
