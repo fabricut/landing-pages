@@ -171,16 +171,21 @@ p {
 }
 
 .la-toile__header span {
-	display: block;
+	display: inline;
 	min-width: 155px;
 }
 
 .la-toile__header img {
 	width: 255px;
 	height: 124px;
-	margin-left: -70px;
+	margin-left: -60px;
 	margin-top: -40px;
 	margin-bottom: -50px;
+}
+
+.la-toile__divider {
+	margin-left: 12px;
+	margin-right: 12px;
 }
 
 .wonderland__header img {
@@ -234,7 +239,7 @@ p {
 	}
 
 	.la-toile__header img {
-		margin-left: -75px;
+		margin-left: -60px;
 	}
 
 	.design-series__text p {
